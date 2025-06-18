@@ -1,3 +1,5 @@
+
+![Header](data/GPUSchedulerHeader.png)
 # GPU-Sharing Workload Scheduler
 
 A Python implementation of GPU scheduling algorithms for containerized workloads, including a Fragmentation Gradient Descent (FGD) scheduler inspired by the paper ["Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent"](https://arxiv.org/abs/2305.19537).
